@@ -1,5 +1,5 @@
-NAME : CHARITH REDDY PUTTA
-Student ID : 700759727
+NAME : CHARITH REDDY PUTTA,
+Student ID : 700759727.
 1.	Tensor Manipulations & Reshaping:
    This project demonstrates tensor manipulation and reshaping using TensorFlow. A random tensor of shape (4, 6) is created, and its rank and shape are determined using TensorFlow functions. The tensor is then 
    reshaped into (2, 3, 4) and transposed to (3, 2, 4). Additionally, a smaller tensor of shape (1, 4) is broadcasted to match the larger tensor's shape, and element-wise addition is performed. The project also 
