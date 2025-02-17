@@ -13,9 +13,9 @@
 This repository contains the code and documentation for Home Assignment 1. The assignment covers the following tasks:
 
 1. **Tensor Manipulations & Reshaping**: Create, reshape, and perform operations on tensors.
-2. **Loss Functions & Hyperparameter Tuning**: Implement and compare Mean Squared Error (MSE) and Categorical Cross-Entropy (CCE) loss functions.
-3. **Training a Model with Different Optimizers**: Train an MNIST model using Adam and SGD optimizers and compare their performance.
-4. **Training a Neural Network with TensorBoard Logging**: Train a simple neural network on the MNIST dataset and log results to TensorBoard.
+2. **Loss Functions & Hyperparameter Tuning**: Implement and evaluate the Mean Squared Error (MSE) and Categorical Cross-Entropy (CCE) loss functions.
+3. **Training a Model with Different Optimizers**: Develop an MNIST model utilizing both Adam and SGD optimizers, and evaluate their respective performance.
+4. **Training a Neural Network with TensorBoard Logging**: Develop a basic neural network utilizing the MNIST dataset and record the outcomes in TensorBoard.
 
 The code is written in Python using TensorFlow and is provided in Jupyter Notebook (`.ipynb`) files. Below are the steps to run the code locally (in Jupyter) or on Google Colab.
 
