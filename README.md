@@ -21,10 +21,8 @@ The code is written in Python using TensorFlow and is provided in Jupyter Notebo
 
 ## Files
 
-- `Task1_Tensor_Manipulations.ipynb`: Code for Task 1.
-- `Task2_Loss_Functions.ipynb`: Code for Task 2.
-- `Task3_Optimizers.ipynb`: Code for Task 3.
-- `Task4_TensorBoard.ipynb`: Code for Task 4.
+- `Home-Assignment-1&2.ipynb`: Code for Task 1 and 2.
+- `Home-Assignment1-3&4.ipynb`: Code for Task 3 and 4.
 - `README.md`: This file.
 
 ---
