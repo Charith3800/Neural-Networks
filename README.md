@@ -21,8 +21,9 @@ The code is written in Python using TensorFlow and is provided in Jupyter Notebo
 
 ## Files
 
-- `Home-Assignment-1&2.ipynb`: Code for Task 1 and 2.
-- `Home-Assignment1-3&4.ipynb`: Code for Task 3 and 4.
+- `Home-Assignment-Task1&2.ipynb`: Code for Task 1 and 2.
+- `Home-Assignment1-Task3.ipynb`: Code for Task 3.
+- `Home-Assignment1-Task4.ipynb`: Code for Task 4.
 - `README.md`: This file.
 
 ---
